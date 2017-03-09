@@ -12,6 +12,9 @@ public class 실습1 {
 				System.out.println("My name is Jaehak Lee");
 				break;
 			}
+			case 2:
+				System.out.println("I'm 23 years old and i'm in Hanyang University ERICA campus");
+				break;
 		}
 	}
 	public static void main(String[] args){
